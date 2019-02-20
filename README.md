@@ -47,10 +47,10 @@ and the template pops up. Don't worry, every line starting with `#` is a comment
 
 ## Credit where credit is due :clap:
 
-This particular template was created in collaboration with @dieuwkehupkes and @jumelet on [this](https://github.com/dieuwkehupkes/diagnosing_lms)
+This particular template was created in collaboration with [@dieuwkehupkes](https://github.com/dieuwkehupkes) and [@jumelet](https://github.com/jumelet) on [this](https://github.com/dieuwkehupkes/diagnosing_lms)
 project. 
 
-The emoji system is loosely adapted from @dannfritz's system, which can be found [here](https://github.com/dannyfritz/commit-message-emoji).
+The emoji system is loosely adapted from [@dannfritz](https://github.com/dannyfritz)'s system, which can be found [here](https://github.com/dannyfritz/commit-message-emoji).
 
 Instructions on how to set the template was found on [this](https://stackoverflow.com/questions/21998728/how-to-specify-a-git-commit-message-template-for-a-repository-in-a-file-at-a-rel)
 StackOverflow question. 
