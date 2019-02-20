@@ -4,20 +4,30 @@
 
 Are you weary :weary: of shitty commit messages like
 
-    Bugfix. 
-    
-    Refactor stuff.
-    
-    Delete old code.
+---
+Bugfix. 
+
+--- 
+Refactor stuff.
+
+--- 
+Delete old code.
+
+---
     
 Behold! Here is a simple solution. Use the `.gitmessage` template provided in this repository to nudge your colleagues 
 (and yourself) into writing better commit messages like 
 
-    :bug: Fix bug in data loader causing an IndexError.
-    
-    :recycle: Refactor database integration.
-    
-    :scissors: Removed old routing logic.
+---
+:bug: Fix bug in data loader causing an IndexError.
+
+---
+:recycle: Refactor database integration.
+
+---
+:scissors: Removed old routing logic.
+
+---
 
 ## How do I use this? :computer:
 
